@@ -41,7 +41,7 @@ static const int floatbar            = 0;
 /* whether to disable borders and gap if only a single window is open */
 static const int fullscreenonewindow = 1;
 
-#include "themes/default.h"
+#include "themes/mughal.h"
 
 /* tagging */
 /* number of workspaces */
