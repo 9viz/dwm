@@ -1,5 +1,5 @@
 /* border pixel of windows */
-static const unsigned int borpx     = 2;
+static const unsigned int borpx     = 4;
 
 /* useless gaps in px */
 static const unsigned int gaps      = 5;
